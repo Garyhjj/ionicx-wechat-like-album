@@ -3,8 +3,8 @@
 ## 类似微信朋友圈添加图片的ionc组件(可滑动浏览，可缩放)
 #### 图片所示是限制了权限，不能添加，不能删除，所以小图后面看不到‘+’，大图右上角没有删除标记垃圾桶。
 
-![!image](./imgs/1.PNG)
-![!image](./imgs/2.PNG)
+![!image](https://garyhjj.github.io/sky/img//1.PNG)
+![!image](https://garyhjj.github.io/sky/img//2.PNG)
 
 ### 使用前配置
 
