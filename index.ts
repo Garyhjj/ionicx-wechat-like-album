@@ -1,0 +1,1 @@
+export { PhotoViewComponentModule } from './app/photo-view/photo-view.component.module';
