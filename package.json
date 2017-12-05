@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/Garyhjj/ionicx-wechat-like-album/issues"
   },
-  "homepage": "https://github.com/Garyhjj/ionicx-wechat-like-album#readme",
+  "homepage": "https://github.com/Garyhjj/ionicx-wechat-like-album/blob/master/README.md",
   "devDependencies": {
     "@types/node": "8.0.54",
     "typescript": "2.6.2"
